@@ -84,7 +84,7 @@ const andritina = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andritina&repo=nom-du-repo&theme=tokyonight)](https://github.com/Andritina/nom-du-repo)
+
 
 </div>
 
