@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="./assets/terminal.svg" alt="Terminal animé : andritina@prod" width="100%" />
+<img src="./terminal.svg" alt="Terminal animé : andritina@prod" width="100%" />
 
 </div>
 
